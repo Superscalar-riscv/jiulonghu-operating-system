@@ -1,2 +1,2 @@
 # jiulonghu-operating-system
-refer to rcore-v3 and ucore-v2
+riscv opearting system refer to rcore-v3 and ucore-v2
